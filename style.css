@@ -1,0 +1,22 @@
+body
+{
+    background: rgb(107, 117, 255);
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_objects, #result_object_name, #result_object_accuracy
+{
+    color: aquamarine;
+}
+
+#camera
+{
+    border: 2px dashed springgreen;
+    width: 350px;
+    height: 300px;
+}
